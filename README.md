@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/MaazAlam39/Leetcode_new/tree/master/0061-rotate-list) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
