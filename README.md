@@ -29,9 +29,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MaazAlam39/Leetcode_new/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/MaazAlam39/Leetcode_new/tree/master/0061-rotate-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
 ## String
 |  |
@@ -41,4 +43,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MaazAlam39/Leetcode_new/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
