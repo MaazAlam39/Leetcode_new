@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaazAlam39/Leetcode_new/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/MaazAlam39/Leetcode_new/tree/master/0061-rotate-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MaazAlam39/Leetcode_new/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MaazAlam39/Leetcode_new/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
