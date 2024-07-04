@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -78,5 +79,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
