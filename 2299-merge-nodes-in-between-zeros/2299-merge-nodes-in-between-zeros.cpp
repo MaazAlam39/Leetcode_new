@@ -10,24 +10,15 @@
  */
 class Solution {
 public:
-    ListNode* mergeNodes(ListNode* head) {
-        ListNode *cur,*prev;
-        prev=cur=head;
-        while(cur->next!=NULL){
-            if(cur->val == 0){
-                prev=cur;
-                cur=cur->next;
-                continue;
-            }
-            prev->val+=cur->val;
-            ListNode *temp=cur->next;
-            prev->next=temp;
-            delete(cur);
-            cur=temp;
-        }
-        prev->next=NULL;
-        delete(cur);
-        return head;
-
-    }
+    ListNode* mergeNodes(ListNode* head){
+    
+        if(!head->next) return nullptr;
+        ListNode* ptr= head->next;
+        int sum=0;
+        while(ptr->val!=0) sum+= ptr->val, ptr=ptr->next;
+        head->next->val= sum;
+        head->next->next= mergeNodes(ptr);
+    
+        return head->next;
+}
 };
