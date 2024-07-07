@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaazAlam39/Leetcode_new/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [1642-water-bottles](https://github.com/MaazAlam39/Leetcode_new/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/MaazAlam39/Leetcode_new/tree/master/2645-pass-the-pillow) |
 ## Recursion
