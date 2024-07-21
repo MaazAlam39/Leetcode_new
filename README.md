@@ -33,12 +33,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MaazAlam39/Leetcode_new/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/MaazAlam39/Leetcode_new/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MaazAlam39/Leetcode_new/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/MaazAlam39/Leetcode_new/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/MaazAlam39/Leetcode_new/tree/master/2846-robot-collisions) |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MaazAlam39/Leetcode_new/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaazAlam39/Leetcode_new/tree/master/1818-maximum-score-from-removing-substrings) |
