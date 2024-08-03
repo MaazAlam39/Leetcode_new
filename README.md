@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/MaazAlam39/Leetcode_new/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/MaazAlam39/Leetcode_new/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaazAlam39/Leetcode_new/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/MaazAlam39/Leetcode_new/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MaazAlam39/Leetcode_new/tree/master/1803-average-waiting-time) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/MaazAlam39/Leetcode_new/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/MaazAlam39/Leetcode_new/tree/master/0726-number-of-atoms) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaazAlam39/Leetcode_new/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/MaazAlam39/Leetcode_new/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/MaazAlam39/Leetcode_new/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaazAlam39/Leetcode_new/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/MaazAlam39/Leetcode_new/tree/master/2846-robot-collisions) |
 ## Math
