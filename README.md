@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/MaazAlam39/Leetcode_new/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MaazAlam39/Leetcode_new/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MaazAlam39/Leetcode_new/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/MaazAlam39/Leetcode_new/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/MaazAlam39/Leetcode_new/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/MaazAlam39/Leetcode_new/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaazAlam39/Leetcode_new/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaazAlam39/Leetcode_new/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
+| [0273-integer-to-english-words](https://github.com/MaazAlam39/Leetcode_new/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/MaazAlam39/Leetcode_new/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/MaazAlam39/Leetcode_new/tree/master/2645-pass-the-pillow) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaazAlam39/Leetcode_new/tree/master/0002-add-two-numbers) |
+| [0273-integer-to-english-words](https://github.com/MaazAlam39/Leetcode_new/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
