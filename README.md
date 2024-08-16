@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MaazAlam39/Leetcode_new/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MaazAlam39/Leetcode_new/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/MaazAlam39/Leetcode_new/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MaazAlam39/Leetcode_new/tree/master/0151-reverse-words-in-a-string) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MaazAlam39/Leetcode_new/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/0136-single-number) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MaazAlam39/Leetcode_new/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MaazAlam39/Leetcode_new/tree/master/0890-lemonade-change) |
