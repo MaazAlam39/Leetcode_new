@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MaazAlam39/Leetcode_new/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/MaazAlam39/Leetcode_new/tree/master/0726-number-of-atoms) |
+| [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaazAlam39/Leetcode_new/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MaazAlam39/Leetcode_new/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaazAlam39/Leetcode_new/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -207,4 +208,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MaazAlam39/Leetcode_new/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
