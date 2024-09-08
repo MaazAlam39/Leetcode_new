@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MaazAlam39/Leetcode_new/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaazAlam39/Leetcode_new/tree/master/0084-largest-rectangle-in-histogram) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MaazAlam39/Leetcode_new/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MaazAlam39/Leetcode_new/tree/master/0890-lemonade-change) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
