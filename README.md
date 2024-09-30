@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/MaazAlam39/Leetcode_new/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaazAlam39/Leetcode_new/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/MaazAlam39/Leetcode_new/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MaazAlam39/Leetcode_new/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaazAlam39/Leetcode_new/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MaazAlam39/Leetcode_new/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/MaazAlam39/Leetcode_new/tree/master/0726-number-of-atoms) |
 | [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaazAlam39/Leetcode_new/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/MaazAlam39/Leetcode_new/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/MaazAlam39/Leetcode_new/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaazAlam39/Leetcode_new/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/MaazAlam39/Leetcode_new/tree/master/2846-robot-collisions) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/MaazAlam39/Leetcode_new/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MaazAlam39/Leetcode_new/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/MaazAlam39/Leetcode_new/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
