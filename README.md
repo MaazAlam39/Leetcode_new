@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaazAlam39/Leetcode_new/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/MaazAlam39/Leetcode_new/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/MaazAlam39/Leetcode_new/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/MaazAlam39/Leetcode_new/tree/master/1642-water-bottles) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MaazAlam39/Leetcode_new/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/MaazAlam39/Leetcode_new/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MaazAlam39/Leetcode_new/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0213-house-robber-ii) |
@@ -281,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MaazAlam39/Leetcode_new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0543-diameter-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MaazAlam39/Leetcode_new/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
