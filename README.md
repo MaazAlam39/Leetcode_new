@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MaazAlam39/Leetcode_new/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MaazAlam39/Leetcode_new/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MaazAlam39/Leetcode_new/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/MaazAlam39/Leetcode_new/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/MaazAlam39/Leetcode_new/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MaazAlam39/Leetcode_new/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/MaazAlam39/Leetcode_new/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaazAlam39/Leetcode_new/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MaazAlam39/Leetcode_new/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/MaazAlam39/Leetcode_new/tree/master/1694-make-sum-divisible-by-p) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/MaazAlam39/Leetcode_new/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MaazAlam39/Leetcode_new/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1694-make-sum-divisible-by-p](https://github.com/MaazAlam39/Leetcode_new/tree/master/1694-make-sum-divisible-by-p) |
 ## Tree
 |  |
 | ------- |
