@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/MaazAlam39/Leetcode_new/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaazAlam39/Leetcode_new/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/0136-single-number) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MaazAlam39/Leetcode_new/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/MaazAlam39/Leetcode_new/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MaazAlam39/Leetcode_new/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0213-house-robber-ii) |
@@ -299,4 +301,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MaazAlam39/Leetcode_new/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
