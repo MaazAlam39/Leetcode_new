@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/MaazAlam39/Leetcode_new/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/MaazAlam39/Leetcode_new/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/MaazAlam39/Leetcode_new/tree/master/0967-minimum-falling-path-sum) |
+| [1002-maximum-width-ramp](https://github.com/MaazAlam39/Leetcode_new/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaazAlam39/Leetcode_new/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/MaazAlam39/Leetcode_new/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/MaazAlam39/Leetcode_new/tree/master/1293-three-consecutive-odds) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/MaazAlam39/Leetcode_new/tree/master/0726-number-of-atoms) |
 | [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MaazAlam39/Leetcode_new/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/MaazAlam39/Leetcode_new/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaazAlam39/Leetcode_new/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/MaazAlam39/Leetcode_new/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/MaazAlam39/Leetcode_new/tree/master/1720-crawler-log-folder) |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaazAlam39/Leetcode_new/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/MaazAlam39/Leetcode_new/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/MaazAlam39/Leetcode_new/tree/master/1002-maximum-width-ramp) |
 ## Data Stream
 |  |
 | ------- |
