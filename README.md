@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/MaazAlam39/Leetcode_new/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MaazAlam39/Leetcode_new/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/MaazAlam39/Leetcode_new/tree/master/0273-integer-to-english-words) |
+| [0670-maximum-swap](https://github.com/MaazAlam39/Leetcode_new/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/MaazAlam39/Leetcode_new/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/MaazAlam39/Leetcode_new/tree/master/2645-pass-the-pillow) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/MaazAlam39/Leetcode_new/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MaazAlam39/Leetcode_new/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/MaazAlam39/Leetcode_new/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/MaazAlam39/Leetcode_new/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MaazAlam39/Leetcode_new/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/MaazAlam39/Leetcode_new/tree/master/1304-longest-happy-string) |
