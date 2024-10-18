@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/MaazAlam39/Leetcode_new/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MaazAlam39/Leetcode_new/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MaazAlam39/Leetcode_new/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MaazAlam39/Leetcode_new/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MaazAlam39/Leetcode_new/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MaazAlam39/Leetcode_new/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/0136-single-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MaazAlam39/Leetcode_new/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MaazAlam39/Leetcode_new/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Queue
 |  |
@@ -362,4 +364,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MaazAlam39/Leetcode_new/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/MaazAlam39/Leetcode_new/tree/master/0967-minimum-falling-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MaazAlam39/Leetcode_new/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MaazAlam39/Leetcode_new/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
