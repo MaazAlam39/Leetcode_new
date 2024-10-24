@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MaazAlam39/Leetcode_new/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MaazAlam39/Leetcode_new/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MaazAlam39/Leetcode_new/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MaazAlam39/Leetcode_new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0543-diameter-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MaazAlam39/Leetcode_new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0543-diameter-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MaazAlam39/Leetcode_new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0543-diameter-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -381,4 +385,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MaazAlam39/Leetcode_new/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
