@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MaazAlam39/Leetcode_new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0543-diameter-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MaazAlam39/Leetcode_new/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MaazAlam39/Leetcode_new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0543-diameter-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MaazAlam39/Leetcode_new/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MaazAlam39/Leetcode_new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MaazAlam39/Leetcode_new/tree/master/0543-diameter-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MaazAlam39/Leetcode_new/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Combinatorics
 |  |
