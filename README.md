@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/MaazAlam39/Leetcode_new/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/MaazAlam39/Leetcode_new/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MaazAlam39/Leetcode_new/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MaazAlam39/Leetcode_new/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaazAlam39/Leetcode_new/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MaazAlam39/Leetcode_new/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MaazAlam39/Leetcode_new/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MaazAlam39/Leetcode_new/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/MaazAlam39/Leetcode_new/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaazAlam39/Leetcode_new/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MaazAlam39/Leetcode_new/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaazAlam39/Leetcode_new/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/MaazAlam39/Leetcode_new/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaazAlam39/Leetcode_new/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/MaazAlam39/Leetcode_new/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MaazAlam39/Leetcode_new/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/MaazAlam39/Leetcode_new/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MaazAlam39/Leetcode_new/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MaazAlam39/Leetcode_new/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
